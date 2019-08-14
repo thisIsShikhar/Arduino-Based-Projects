@@ -1,0 +1,10 @@
+Components: 
+
+1. Arduino UNO R3 x1
+2. Male-Female Jumper Wires x4
+3.HC-SR04 Ultrasonic sensor x1
+
+
+Description: 
+
+This project is about measuring distance with the help of HC-SR04 Ultrasonic sensor and Arduino Uno.The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like bats or dolphins do. It offers excellent range accuracy and stable readings in an easy-to-use package having the ranging distance 2cm – 500 cm/1" - 16ft. It operation is not affected by sunlight or black material like Sharp rangefinders are (although acoustically soft materials like cloth can be difficult to detect).Through connecting the pins with pre-programed arduino pins, it is possible to measure the distance of an object in almost accurate value.
