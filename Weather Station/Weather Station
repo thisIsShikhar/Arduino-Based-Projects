@@ -1,0 +1,8 @@
+Components:
+1. NodeMCU ESP8266 x1
+2. DHT11 (Temperature & Humidity Sensor) x1
+3. Female-Female Jumper Wires x3
+
+Description: 
+This is an IoT based Project where we made a "Weather Station". As Cloud we are using 'Thingspeak', from where we can  monitor temperature and humidity with the help of NodeMCU ESP8266 and DHT11.
+ESP8266 is an ultra-low-power UART-WiFi module. It’s designed for mobile devices and networking applications, usually it can be applied to the Internet, LAN communications, smart home fields, industrial control, and other handheld devices. ESP12E DevKit selects the on-board PCB antenna package with 2.54 in-line package, so that it can debug equipment or direct product applications conveniently and DHT11 digital temperature and humidity sensor is a composite Sensor contain a calibrated digital signal output of the temperature and humidity.The sensor includes a resistive sense of wet components and an NTC temperature measurement devices, and connected with a high-performance 8-bit microcontroller. 
